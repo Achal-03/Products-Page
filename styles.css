@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.heading {
+    color: #183b56;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.card-img {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    border-radius: 16px;
+    color: white;
+    height: 328px;
+}
+
+.card-img1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    border-radius: 16px;
+    color: white;
+    height: 328px;
+}
+
+.head {
+    font-size: 50px;
+}
+
+.para {
+    font-size: 20px;
+    color: white;
+}
+
+.button {
+    background-color: white;
+    border-radius: 20px;
+    color: #ff9f00;
+    border-width: 0px;
+    width: 120px;
+    height: 40px;
+}
+
+.button1 {
+    border-width: 1px;
+    color: #183b56;
+    background-color: transparent;
+    border-radius: 3px;
+    width: 80px;
+    height: 35px;
+}
+
+.modal-heading {
+    color: #183b56;
+}
+
+p {
+    color: #183b56;
+    font-size: 15px;
+}
+
+span {
+    font-weight: bold;
+}
+
+a {
+    color: #ff9f00;
+    font-weight: bold;
+}
